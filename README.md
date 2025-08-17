@@ -2,12 +2,6 @@
 
 *A Python tool to seamlessly generate GROMACS-compatible force field files for ligands and cofactors starting from AMBER parameter files.*
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.8+-3776AB.svg?style=flat&logo=python&logoColor=white"/>
-  <img alt="License" src="https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"/>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen.svg"/>
-</p>
-
 ---
 
 ## 🚀 Overview
@@ -112,6 +106,12 @@ If you use **AMBERly** in your research, please cite this repository.
 ## 📜 License
 
 Distributed under the BSD 3-Clause License. See `LICENSE` for details.
+
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8+-3776AB.svg?style=flat&logo=python&logoColor=white"/>
+  <img alt="License" src="https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"/>
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen.svg"/>
+</p>
 
 ---
 

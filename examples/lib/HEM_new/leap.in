@@ -1,8 +1,0 @@
-source /Users/sama578/opt/anaconda3/envs/py/dat/leap/cmd/leaprc.protein.ff14SB
-source /Users/sama578/opt/anaconda3/envs/py/dat/leap/cmd/leaprc.lipid21
-source /Users/sama578/opt/anaconda3/envs/py/dat/leap/cmd/leaprc.gaff
-
-LIG = loadMol2 3ARC_HEM.mol2
-loadAmberParams 3ARC_HEM.frcmod
-saveAmberParm LIG 3ARC_HEM.prmtop 3ARC_HEM.rst7
-quit
